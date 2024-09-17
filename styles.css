@@ -27,6 +27,10 @@ header > h1 {
   cursor: pointer;
   font-size: 1.2rem;
 }
+.logo{
+font-family: "Playwrite CU", cursive;
+  font-size: 1.2rem;
+}
 .nav-items {
   display: flex;
   gap: 1rem;
