@@ -7,7 +7,7 @@
 ## REPOSITORY
 - [github code](https://github.com/Muha-coder-dev/Muhammad-Portfolio)
 
-### DEMO
+### PAGE
 [main page](https://muha-coder-dev.github.io/Muhammad-Portfolio/)
 ## Author
 - Muhammad Salisu
